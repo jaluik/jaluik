@@ -5,4 +5,4 @@
 - 🧑 Front-end engineer
 - 💻 Typescript / Python
 - 🔥 Keep learning and working
-- 📝 [My blog](https://blog.jaluik.workers.dev)
+- 📝 [My blog](https://jaluik.top)
